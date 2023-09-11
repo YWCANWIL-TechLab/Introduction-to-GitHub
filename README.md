@@ -1,3 +1,3 @@
 # Introduction-to-GitHub
 
-I have Git bash working.
+Welcome to GitBash! You will be editing this README.md file today.
